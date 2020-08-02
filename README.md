@@ -4,7 +4,7 @@ Android 开发工程师
 
 ![](https://github.com/itxiaox/itxiaox/blob/master/img/timg.jpg?raw=true)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itxiaox & theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itxiaox&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
